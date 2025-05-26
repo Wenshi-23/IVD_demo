@@ -1,5 +1,5 @@
 # Wen's demo for IVD
-This repository showcases demo projects I have developed for IVD, mainly using R Shiny and VBA. These demos serve as a record of my learning and development work,
+This repository showcases demo projects I have developed for IVD, mainly using R Shiny and VBA. These demos serve as a record of my learning and development work.
 
 # Part 1: R shiny
 ## Data upload
